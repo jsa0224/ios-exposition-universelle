@@ -13,7 +13,7 @@
 
 
 ## 👋 소개
-[Aaron](https://github.com/KyoPak), [som](https://github.com/jsa0224), [Aaron](https://github.com/Hashswim)의 만국박람회 프로젝트입니다.
+[Aaron](https://github.com/Aaron), [som](https://github.com/jsa0224), [Stone](https://github.com/lws2269)의 만국박람회 프로젝트입니다.
 
 
 ## 💻 개발환경 및 라이브러리
